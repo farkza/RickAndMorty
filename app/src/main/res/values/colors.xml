@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rick_and_morty_primary">#512DA8</color>
+    <color name="rick_and_morty_secondary">#FFC107</color>
+    <color name="rick_and_morty_background">#FFFFFF</color>
+    <color name="rick_and_morty_text">#212121</color>
+</resources>

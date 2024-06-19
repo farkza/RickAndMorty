@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="back_button_label">Retour</string>
+</resources>
